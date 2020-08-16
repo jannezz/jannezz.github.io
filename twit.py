@@ -1,6 +1,6 @@
 # Let's say this is a web app, so we need to re-build the auth handler
 # first...
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth = tweepy.OAuthHandler("QI2caU58YcAbKxrUmvD1Wy2fV", consumer_secret)
 token = session.get('request_token')
 session.delete('request_token')
 auth.request_token = { 'oauth_token' : token,
