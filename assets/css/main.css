@@ -1467,7 +1467,7 @@ a.newer-posts:hover {
             flex-direction: column;
   }
   .post .post-thumbnail {
-    width: 100%;
+    height: 100%;
   }
   .post .post-content {
     width: 100%;
