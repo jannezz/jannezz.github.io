@@ -1,0 +1,13 @@
+---
+layout: post
+title: Lordi
+date: 2023-01-01 00:00:00 +0300
+description: # Add post description (optional)
+img: lordi.png # Add image post (optional)
+tags: [lordi] # add tag
+spotifyplaylist: 5rZvHeDbrAp0bA4aLYGll3
+---
+
+Tuottaja / vastaava tuottaja / A&R Lordi-albumeilla vuoden 2006 Arockalypse-albumista lähtien.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5rZvHeDbrAp0bA4aLYGll3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
