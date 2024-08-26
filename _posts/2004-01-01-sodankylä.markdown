@@ -5,9 +5,10 @@ date: 2020-01-15 00:00:00 +0300
 description: # Add post description (optional)
 img: sodankyla.png # Add image post (optional)
 tags: [maj karma] # add tag
-spotifyplaylist: 61ZjMJeMePcDbREerK7LB3
+spotifyplaylist: 0pURN4i6plOa0h815mJp4K
 ---
 
-CMX
+Maj Karma: Sodankylä
+Tuottaja
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/album/0pURN4i6plOa0h815mJp4K?si=zNBiVmPzRcWRdjeYXHy1SA" width="700" height="480" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
