@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Meri josta elän
-date: 2024-09-29 00:00:00 +0300
+date: 2024-10-12 00:00:00 +0300
 description: # Add post description (optional)
-img: elohopeaa.jpeg # Add image post (optional)
-tags: [kalle ahola & puut, elohopeaa] # add tag
+img: merijostaelan.jpeg # Add image post (optional)
+tags: [kalle ahola & puut, meri josta elan] # add tag
 spotifyplaylist: 6cBwIgISAd3zQO2F3gH5F2
 ---
 
-Viides Kalle Ahola & Puut -single.
+Kalle Ahola & Puut -debyyttialbumi.
 
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
