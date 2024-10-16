@@ -10,4 +10,4 @@ spotifyalbum: 34C7rKy8SSSaizolXcnkFA
 
 Kalle Ahola & Puut -debyyttialbumi.
 
-{% include spotifyalbum.html id=page.spotifyalbum %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/76hy36Gdel0t47rj3I08EU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
